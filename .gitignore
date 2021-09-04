@@ -1,0 +1,8 @@
+.DS_Store
+Podfile
+Podfile.lock
+/Pods
+/Temp/Aphrodite.entitlements
+/Temp/Assets.xcassets
+Aphrodite.xcodeproj
+Aphrodite.xcworkspace
